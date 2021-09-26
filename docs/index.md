@@ -1,4 +1,4 @@
-| [Home](https://hyper-stockfish.github.io/HyperStockfish-bot/) | [contact](https://hyper-stockfish.github.io/HyperStockfish-bot/contact-us) | [Lichess TV](https://hyper-stockfish.github.io/HyperStockfish-bot/lichess-tv) | 
+| [Home](https://hyper-stockfish.github.io/HyperStockfish-bot/) | [Contact](https://hyper-stockfish.github.io/HyperStockfish-bot/contact-us) | [Lichess TV](https://hyper-stockfish.github.io/HyperStockfish-bot/lichess-tv) 
 
  
 ## Welcome to web page of Hyper-stockfish bot
