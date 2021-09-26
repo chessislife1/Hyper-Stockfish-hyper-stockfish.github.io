@@ -1,3 +1,5 @@
+| [Home](https://hyper-stockfish.github.io/HyperStockfish-bot/) | [contact](https://hyper-stockfish.github.io/HyperStockfish-bot/contact-us) | [Lichess TV](https://hyper-stockfish.github.io/HyperStockfish-bot/lichess-tv) |
+
 # Lichess TV
 
 ## TOP RATED
