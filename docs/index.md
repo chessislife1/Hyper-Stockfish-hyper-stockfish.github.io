@@ -1,4 +1,4 @@
-<head><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"></head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 | [Home](https://hyper-stockfish.github.io/HyperStockfish-bot/) | [contact](https://hyper-stockfish.github.io/Hyper-Stockfish-bot-lichess/contact-us) | [Lichess TV](https://hyper-stockfish.github.io/HyperStockfish-bot/lichess-tv) 
 
  
