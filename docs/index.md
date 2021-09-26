@@ -1,5 +1,5 @@
-- [contact](https://hyper-stockfish.github.io/Hyper-Stockfish-bot-lichess/contact-us) | - abc
------------- | -------------
+ - [contact](https://hyper-stockfish.github.io/Hyper-Stockfish-bot-lichess/contact-us) | 
+
  
 ## Welcome to web page of Hyper-stockfish bot
 
