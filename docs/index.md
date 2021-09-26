@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to web page of Hyper-stockfish bot
 
-You can use the [editor on GitHub](https://github.com/Hyper-Stockfish/Hyper-Stockfish-hyper-stockfishbot.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can play with [hyper-stockfish](https://lichess.org/@/Hyper-Stockfish) bot on lichess at any time.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
