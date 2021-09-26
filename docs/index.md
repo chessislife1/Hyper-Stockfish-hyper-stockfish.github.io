@@ -1,5 +1,6 @@
-- [contact](https://hyper-stockfish.github.io/Hyper-Stockfish-bot-lichess/contact-us) - abc
-
+- [contact](https://hyper-stockfish.github.io/Hyper-Stockfish-bot-lichess/contact-us) | - abc
+------------ | -------------
+ 
 ## Welcome to web page of Hyper-stockfish bot
 
 You can play with [hyper-stockfish](https://lichess.org/@/Hyper-Stockfish) bot on lichess at any time.
